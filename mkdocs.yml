@@ -1,1 +1,6 @@
-site_name: My Docs
+site_name: GH-PAGES-TEST
+
+nav:
+  - Home: index.md
+  - About: about/about.md
+
