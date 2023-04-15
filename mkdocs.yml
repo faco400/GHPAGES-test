@@ -1,4 +1,5 @@
 site_name: GH-PAGES-TEST
+site_url: https://faco400.github.io/GHPAGES-test/
 
 nav:
   - Home: index.md
